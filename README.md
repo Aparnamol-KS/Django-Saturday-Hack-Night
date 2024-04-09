@@ -19,7 +19,9 @@ To enhance user experience and streamline operations, the system leverages Chart
 2. [Alicia Therese Dominic](https://github.com/AliciaTherese)
 3. [Bobby Thomas Thomas](https://github.com/bobbythomas985 )
 ## Link to product walkthrough
-[link to video](Link Here)
+
+https://github.com/Aparnamol-KS/Django-Saturday-Hack-Night/assets/152758476/5153d702-d525-4ed0-a952-6ec08b4f0120
+
 ## How it Works ?
 
 The Event Management System allows users to organize events into categories. Users can perform actions such as creating, updating, and deleting categories and events. The system provides views for listing categories and their events, creating categories, creating events within categories, updating event details, and deleting events. Additionally, there's a visual representation of pending events for each category through a chart.
